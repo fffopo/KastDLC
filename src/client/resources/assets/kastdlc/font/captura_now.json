@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "kastdlc:captura_now.ttf",
+      "shift": [0, 0],
+      "size": 12,
+      "oversample": 4.0
+    }
+  ]
+}
